@@ -1,0 +1,6 @@
+com\example\ms3_funciona\Infrastracture\MaquinaRepository.class
+com\example\ms3_funciona\Domain\Maquina.class
+com\example\ms3_funciona\application\MaquinaController.class
+com\example\ms3_funciona\Ms3FuncionaApplication.class
+com\example\ms3_funciona\Service\MaquinaService.class
+com\example\ms3_funciona\WebConfig.class
